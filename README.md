@@ -14,8 +14,8 @@ To help you consider all of possible ramifications of your work on data projects
 Now is the time to invest in a deliberate practice of data ethics, for better products, better teams, and better outcomes. Read a copy of this report and learn what it takes to do good data science today.
 
 [Preface](https://resources.oreilly.com/examples/0636920203964/blob/master/preface.md)
-1. [Doing Good Data Science](https://resources.oreilly.com/examples/0636920203964/blob/master/doing_good_data_science.md)
+[1. Doing Good Data Science](https://resources.oreilly.com/examples/0636920203964/blob/master/doing_good_data_science.md)
 [2. Of Oaths and Checklists](https://resources.oreilly.com/examples/0636920203964/blob/master/of_oaths_and_checklists.md)
-3. The Five Cs
-4. Data's Day of Reckoning
-5. Case Studies
+[3. The Five Cs](https://resources.oreilly.com/examples/0636920203964/blob/master/the_five_cs.md)
+[4. Data's Day of Reckoning](https://resources.oreilly.com/examples/0636920203964/blob/master/datas_day_of_reckoning.md)
+[5. Case Studies](https://resources.oreilly.com/examples/0636920203964/blob/master/casestudies.md)
