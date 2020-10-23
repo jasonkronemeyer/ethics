@@ -1,4 +1,3 @@
-::: {.section data-type="chapter" xmlns="http://www.w3.org/1999/xhtml"}
 Data\'s Day of Reckoning
 ========================
 
@@ -40,7 +39,6 @@ professional societies were formed to maintain and enforce codes of
 conduct; government regulatory processes have established standards and
 penalties for work that is detrimental to society.
 
-::: {.section data-type="sect1"}
 Ethics and Security Training
 ============================
 
@@ -111,9 +109,7 @@ boot camps. They can't remain abstract, but need to be coupled with
 And training can't stop upon graduation. Employers need to host regular
 forums and offer refresher courses to keep people up-to-date on the
 latest challenges and perspectives.
-:::
 
-::: {.section data-type="sect1"}
 Developing Guiding Principles
 =============================
 
@@ -159,9 +155,7 @@ discussion. They're a great start for any group that wants to create its
 own checklist. And Cathy O'Neil has proposed
 [auditing](http://bit.ly/2uQUUf3) machine learning algorithms for
 fairness.
-:::
 
-::: {.section data-type="sect1"}
 Building Ethics into a Data-Driven Culture
 ==========================================
 
@@ -187,9 +181,9 @@ Ethical thinking is important with or without corporate support, but
 it's more likely to make a difference when ethical action is a corporate
 value. Here are some ideas for building ethics into culture:
 
-An individual needs to be empowered to stop the process before damage is done.
+_An individual needs to be empowered to stop the process before damage is done._
 
-:   Toyota and [W. Edwards
+Toyota and [W. Edwards
     Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming) pioneered
     the use of the [andon
     cord](https://en.wikipedia.org/wiki/Andon_(manufacturing)) to
@@ -198,15 +192,15 @@ An individual needs to be empowered to stop the process before damage is done.
     well as production line operators would then discuss the issue, make
     improvements, and restart the process.
 
-    Any member of a data team should be able to pull a virtual "andon
+Any member of a data team should be able to pull a virtual "andon
     cord," stopping production, whenever they see an issue. The product
     or feature stays offline until the team has a resolution. This way,
     an iterative process can be developed that avoids glossing over
     issues.
 
-Anyone should be able to escalate issues for remediation without fear of retaliation.
+_Anyone should be able to escalate issues for remediation without fear of retaliation._
 
-:   There needs to be an escalation process for team members who don't
+There needs to be an escalation process for team members who don't
     feel their voice has been heard. The US Department of State has a
     [dissent channel](https://en.wikipedia.org/wiki/Dissent_Channel)
     where any diplomat can make sure the Secretary of State hears their
@@ -214,7 +208,7 @@ Anyone should be able to escalate issues for remediation without fear of retalia
     issues is required by law. For health care plans in the US, there is
     a compliance officer who reports directly to the board of directors.
 
-    Data-driven organizations need a similar model that allows people to
+Data-driven organizations need a similar model that allows people to
     escalate issues without the fear of reprisal. An escalation process
     could be implemented in several forms. For example, companies could
     work with an organization such as the Electronic Frontier Foundation
@@ -224,34 +218,34 @@ Anyone should be able to escalate issues for remediation without fear of retalia
     could be implemented under an existing or new agency (e.g., a
     Consumer Data Protection Agency).
 
-An ethical challenge should be part of the hiring process.
+_An ethical challenge should be part of the hiring process._
 
-:   When hiring, companies frequently assess whether a candidate will be
+When hiring, companies frequently assess whether a candidate will be
     a \"cultural fit.\" Interviewers ask questions that help them
     understand whether a candidate will work well with other team
     members. However, interviewers rarely ask questions about the
     candidate's ethical values.
 
-    Rather than asking a question with a right/wrong answer, we've found
+Rather than asking a question with a right/wrong answer, we've found
     that it's best to pose a problem that lets us see how the candidate
     thinks about ethical and security choices. Here's a question we have
     used:
 
-    > Assume we have a large set of demographic data. We're trying to
-    > evaluate individuals and we're not supposed to use race as an
-    > input. However, you discover a proxy for race with the other
-    > variables. What would you do?
+> Assume we have a large set of demographic data. We're trying to
+> evaluate individuals and we're not supposed to use race as an
+> input. However, you discover a proxy for race with the other
+> variables. What would you do?
 
-    This kind of question can start a dialogue about how to use the
+This kind of question can start a dialogue about how to use the
     proxy variable. What effects does it have on people using the
     product? Are we making recommendations, or deciding whether to
     provide services? Are we implementing a legal requirement, or
     providing guidance about compliance? Discussing the question and
     possible answers will reveal the candidate's values.
 
-Product reviews must ask questions about the product's impact.
+_Product reviews must ask questions about the product's impact._
 
-:   Environmental impact statements predict the impact of construction
+Environmental impact statements predict the impact of construction
     projects on the public. We've already mentioned FAT/ML's proposed
     Social Impact Statements as an example of what might be done for
     data. In the social sciences and the biomedical industry,
@@ -264,9 +258,9 @@ Product reviews must ask questions about the product's impact.
     actions before releasing products. We believe that using a checklist
     is the best approach for ensuring good outcomes.
 
-Teams must reflect diversity of thought, experiences, race, and background.
+_Teams must reflect diversity of thought, experiences, race, and background._
 
-:   All too often, we hear about products that are culturally
+All too often, we hear about products that are culturally
     insensitive or overtly racist. One [notorious
     example](https://reut.rs/2LzTi0n) is an automated passport control
     system that doesn't let an individual proceed until a good digital
@@ -284,9 +278,9 @@ Teams must reflect diversity of thought, experiences, race, and background.
     you're deeply involved with a project, it can be hard to recognize
     problems that are obvious to outsiders.
 
-Corporations must make their own principles clear.
+_Corporations must make their own principles clear._
 
-:   Google's "Don't be evil" has always been a cute, but vague, maxim.
+Google's "Don't be evil" has always been a cute, but vague, maxim.
     Their recent statement, [Artificial Intelligence at Google: Our
     Principles](https://ai.google/principles), is more specific. In a
     similar vein, the face recognition startup Kairos has said that they
@@ -295,7 +289,7 @@ Corporations must make their own principles clear.
     use of commercial face recognition in law enforcement or government
     surveillance of any kind is wrong."
 
-    However, it's important to realize that advocating for corporate
+However, it's important to realize that advocating for corporate
     ethical principles has consequences. Significant internal protest,
     and the [resignation of several developers](http://bit.ly/2O5Cgc6)
     in protest over Google's defense contracts, were needed to get their
@@ -321,9 +315,9 @@ product, the product development loop is likely to flush out systematic
 problems with bias and cultural insensitivity. The key is testing the
 product on a truly diverse group of users, not just a group that mirrors
 the expected customer base or the developers' backgrounds.
-:::
 
-::: {.section data-type="sect1"}
+
+
 Regulation
 ==========
 
@@ -374,9 +368,8 @@ very difficult for IRBs to adapt to new ideas and technologies. It's why
 the Obama administration pushed for nearly eight years to update the
 Common Rule's models for consent to be consistent with digital
 technologies and to enable data mining.
-:::
 
-::: {.section data-type="sect1"}
+
 Building Our Future
 ===================
 
@@ -414,5 +407,3 @@ easy---but it's necessary.
 
 We can build a future we want to live in, or we can build a nightmare.
 The choice is up to us.
-:::
-:::
