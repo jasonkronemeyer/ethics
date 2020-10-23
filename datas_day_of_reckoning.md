@@ -130,7 +130,7 @@ mistakes in surgery; they're used very heavily by airline pilots,
 especially in emergencies; and they can help data professionals to not
 forget ethical issues, even when they are under pressure to deliver.
 
-In [\#CH_Oaths](#CH_Oaths), we proposed a checklist for developers
+In Chapter 2, we proposed a checklist for developers
 working on data-driven applications. Feel free to use and to modify this
 checklist to fit your situation and use it in your projects. Our
 checklist doesn\'t reflect all the issues that you should be
@@ -252,7 +252,7 @@ Environmental impact statements predict the impact of construction
     Institutional Review Boards (IRBs) assess the possible consequences
     of experiments before they're performed.
 
-    While both environmental impact statements and IRBs present problems
+While both environmental impact statements and IRBs present problems
     for data products, data teams need to evaluate the impact of choices
     they make. Teams need to think about the consequences of their
     actions before releasing products. We believe that using a checklist
@@ -270,7 +270,7 @@ All too often, we hear about products that are culturally
     often be traced to a lack of data or a lack of insight into the
     diversity of the population that will be impacted.
 
-    While there's no general solution to these problems of cultural
+While there's no general solution to these problems of cultural
     sensitivity, diversity and inclusion are a tremendous help. Team
     members should be from the populations that will be impacted.
     They'll see issues well before anyone else. External peer reviews
