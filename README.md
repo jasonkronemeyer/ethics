@@ -24,3 +24,18 @@ Now is the time to invest in a deliberate practice of data ethics, for better pr
 [4. Data's Day of Reckoning](datas_day_of_reckoning.md)
 
 [5. Case Studies](casestudies.md)
+
+
+---
+
+
+
+**Original Repository:** [Ethics and Data Science](https://resources.oreilly.com/examples/0636920203964)
+
+**Author:** O'Reilly Media, Inc.
+
+**Forked Repository:** [Ethics](github.com/jasonkronemeyer/ethics
+
+**Modifications:** [Brief description of the changes or additions you have made]
+
+**Date of Fork:** March 1, 2022
