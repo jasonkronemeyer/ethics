@@ -34,7 +34,7 @@ Now is the time to invest in a deliberate practice of data ethics, for better pr
 
 **Author:** O'Reilly Media, Inc.
 
-**Forked Repository:** [Ethics](github.com/jasonkronemeyer/ethics
+**Forked Repository:** [Ethics](github.com/jasonkronemeyer/ethics)
 
 **Modifications:** As of March 17, 2005, the only revisions that have been made are the internal links to the forked repository and the correct reference links in the origin repository.
 
