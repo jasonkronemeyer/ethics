@@ -47,8 +47,8 @@ To ensure transparency throughout the project all items should be checked off th
 
 #### References
 
-- DRIVENDATA LABS. (n.d.). deon An etchics checklist for data sceintists. Retrieved March 2021, from deon Project Website: [42](https://deon.drivendata.org/)
-- Loukides, M., Mason, H., & Patil, D. (n.d.). Ethics and Data Science. Retrieved March 2021, from [43](https://resources.oreilly.com/examples/0636920203964/)
-- Sandvig, C. (2020). SIADS 503: Data Science Ethics. Lectures, University of Michigan. Retrieved March 2021, from [44](https://www.coursera.org/learn/siads503/home/welcome)
-- Stanhaus, A. (2020). Privacy Principles. Lecture. Retrieved March 2021, from [45](https://www.coursera.org/learn/siads503/lecture/cFN6X/privacy-principles)
-- U.S. Department of Education. (2015, July). Checklist for Developoing School District Privacy Programs. Retrieved March 28, 2021, from Student Privacy at the U.S. Department of Education: [46](https://studentprivacy.ed.gov/sites/default/files/resource_document/file/Checklist_District_Privacy_Program_0.pdf)
+- DRIVENDATA LABS. (n.d.). deon An etchics checklist for data sceintists. Retrieved March 2021, from deon Project Website: [https://deon.drivendata.org](https://deon.drivendata.org/)
+- Loukides, M., Mason, H., & Patil, D. (n.d.). Ethics and Data Science. Retrieved March 2021, from [https://resources.oreilly.com/examples/0636920203964/](https://resources.oreilly.com/examples/0636920203964/)
+- Sandvig, C. (2020). SIADS 503: Data Science Ethics. Lectures, University of Michigan. Retrieved March 2021, from [https://www.coursera.org/learn/siads503/home/welcome](https://www.coursera.org/learn/siads503/home/welcome)
+- Stanhaus, A. (2020). Privacy Principles. Lecture. Retrieved March 2021, from [https://www.coursera.org/learn/siads503/lecture/cFN6X/privacy-principles](https://www.coursera.org/learn/siads503/lecture/cFN6X/privacy-principles)
+- U.S. Department of Education. (2015, July). Checklist for Developoing School District Privacy Programs. Retrieved March 28, 2021, from Student Privacy at the U.S. Department of Education: [https://studentprivacy.ed.gov/sites/default/files/resource_document/file/Checklist_District_Privacy_Program_0.pdf](https://studentprivacy.ed.gov/sites/default/files/resource_document/file/Checklist_District_Privacy_Program_0.pdf)
