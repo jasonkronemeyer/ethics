@@ -1,7 +1,7 @@
 # Ethics and Data Science
 ## By Mike Loukides, Hilary Mason, and DJ Patil
 	  
-[![Ethics and Data Science, by Mike Loukides](logo.png)](https://www.safaribooksonline.com/library/view/title/9781492043898//)
+[![Ethics and Data Science, by Mike Loukides](logo.png)]([https://resources.oreilly.com/examples/0636920203964](https://resources.oreilly.com/examples/0636920203964))
 	  
 As the impact of data science continues to grow on society, there is an increased need to discuss how data is appropriately used and how to address misuse. Yet, ethical principles for working with data have been available for decades. The real issue today is how to put those principles into action. With this report, authors Mike Loukides, Hilary Mason, and DJ Patil examine practical ways for making ethical data standards part of your work every day.
 
@@ -28,7 +28,7 @@ Now is the time to invest in a deliberate practice of data ethics, for better pr
 
 ---
 
-
+##### This work was forked from:
 
 **Original Repository:** [Ethics and Data Science](https://resources.oreilly.com/examples/0636920203964)
 
@@ -36,6 +36,6 @@ Now is the time to invest in a deliberate practice of data ethics, for better pr
 
 **Forked Repository:** [Ethics](github.com/jasonkronemeyer/ethics
 
-**Modifications:** [Brief description of the changes or additions you have made]
+**Modifications:** As of March 17, 2005, the only revisions that have been made are the internal links to the forked repository and the correct reference links in the origin repository.
 
 **Date of Fork:** March 1, 2022
