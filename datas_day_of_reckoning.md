@@ -407,3 +407,17 @@ easy---but it's necessary.
 
 We can build a future we want to live in, or we can build a nightmare.
 The choice is up to us.
+
+---
+
+##### This work was forked from:
+
+**Original Repository:** [Ethics and Data Science](https://resources.oreilly.com/examples/0636920203964)
+
+**Author:** Mike Loukides, Hilary Mason, and DJ Patil, O'Reilly Media, Inc.
+
+**Forked Repository:** [Ethics](github.com/jasonkronemeyer/ethics)
+
+**Modifications:** As of March 1, 2024, the only revisions that have been made are the internal links to the forked repository and the correct reference links in the origin repository.
+
+**Date of Fork:** March 1, 2021
