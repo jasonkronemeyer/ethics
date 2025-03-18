@@ -41,3 +41,5 @@ Now is the time to invest in a deliberate practice of data ethics, for better pr
 **Modifications:** As of March 1, 2024, the only revisions that have been made are the internal links to the forked repository and the correct reference links in the origin repository.
 
 **Date of Fork:** March 1, 2021
+
+### &copy; 2024 O’Reilly Media, Inc. All rights reserved.
