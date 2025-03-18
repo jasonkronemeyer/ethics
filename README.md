@@ -32,7 +32,9 @@ Now is the time to invest in a deliberate practice of data ethics, for better pr
 
 **Original Repository:** [Ethics and Data Science](https://resources.oreilly.com/examples/0636920203964)
 
-**Author:** Mike Loukides, Hilary Mason, and DJ Patil, O'Reilly Media, Inc.
+**Authors:** Mike Loukides, Hilary Mason, and DJ Patil, O'Reilly Media, Inc.
+
+**Recommended Citation:** Loukides, M., Mason, H., & Patil, D. J. (n.d.). Ethics and Data Science. O'Reilly Media, Inc. Retrieved from https://resources.oreilly.com/examples/0636920203964/ 
 
 **Forked Repository:** [Ethics](github.com/jasonkronemeyer/ethics)
 
