@@ -334,3 +334,17 @@ well-established products. New techniques may have been developed that
 could result in harm in unforeseen ways. In short, it's about taking
 responsibility for the products that are built. The five Cs are a
 mechanism to foster dialogue to ensure the products "do no harm."
+
+---
+
+##### This work was forked from:
+
+**Original Repository:** [Ethics and Data Science](https://resources.oreilly.com/examples/0636920203964)
+
+**Author:** Mike Loukides, Hilary Mason, and DJ Patil, O'Reilly Media, Inc.
+
+**Forked Repository:** [Ethics](github.com/jasonkronemeyer/ethics)
+
+**Modifications:** As of March 1, 2024, the only revisions that have been made are the internal links to the forked repository and the correct reference links in the origin repository.
+
+**Date of Fork:** March 1, 2021
